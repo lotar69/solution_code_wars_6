@@ -1,6 +1,6 @@
 # function name has been changed for avoiding google search cheats ;)
 
-def validate(n):
+def changed(n):
     if n == 123:
         return False
     result, final_result = [], []
